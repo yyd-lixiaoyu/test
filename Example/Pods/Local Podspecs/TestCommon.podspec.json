@@ -1,0 +1,22 @@
+{
+  "name": "TestCommon",
+  "version": "0.1.0",
+  "summary": "A short description of TestCommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shenjifeng777@icloud.com/TestCommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shenjifeng777@icloud.com": "lixiaoyu@yydrobot.com"
+  },
+  "source": {
+    "git": "https://github.com/shenjifeng777@icloud.com/TestCommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestCommon/Classes/**/*"
+}

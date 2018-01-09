@@ -8,11 +8,22 @@
 
 import UIKit
 
+import TestCommon
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let tc = TestClass()
+        
+        tc.changeVa1(str: "test")
+        
+        print("\(tc.va1)")
+        
+        tc.va1 = "test2"
+        
+        print("\(tc.va1)")
     }
 
     override func didReceiveMemoryWarning() {
