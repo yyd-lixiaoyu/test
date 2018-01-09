@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestCommon
 
 [![CI Status](http://img.shields.io/travis/shenjifeng777@icloud.com/TestCommon.svg?style=flat)](https://travis-ci.org/shenjifeng777@icloud.com/TestCommon)
@@ -27,3 +28,7 @@ shenjifeng777@icloud.com, lixiaoyu@yydrobot.com
 ## License
 
 TestCommon is available under the MIT license. See the LICENSE file for more info.
+=======
+# test
+test
+>>>>>>> c2ac8a688dcf7f98867365a51ca0eb7406675154
